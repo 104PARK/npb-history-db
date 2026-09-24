@@ -1,0 +1,7 @@
+{
+  "db": "npb.db",
+  "raw_dir": "raw",
+  "official_base": "https://npb.jp",
+  "request_delay_seconds": 1.0,
+  "parser_version": "5.0"
+}
